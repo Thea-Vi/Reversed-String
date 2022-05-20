@@ -1,0 +1,13 @@
+/Users/theavillanueva/Desktop/C#/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp3.1/SimpleMethod.deps.json
+/Users/theavillanueva/Desktop/C#/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp3.1/SimpleMethod.runtimeconfig.json
+/Users/theavillanueva/Desktop/C#/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp3.1/SimpleMethod.runtimeconfig.dev.json
+/Users/theavillanueva/Desktop/C#/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp3.1/SimpleMethod.dll
+/Users/theavillanueva/Desktop/C#/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp3.1/SimpleMethod.pdb
+/Users/theavillanueva/Desktop/C#/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp3.1/SimpleMethod.csproj.AssemblyReference.cache
+/Users/theavillanueva/Desktop/C#/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp3.1/SimpleMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/theavillanueva/Desktop/C#/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp3.1/SimpleMethod.AssemblyInfoInputs.cache
+/Users/theavillanueva/Desktop/C#/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp3.1/SimpleMethod.AssemblyInfo.cs
+/Users/theavillanueva/Desktop/C#/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp3.1/SimpleMethod.csproj.CoreCompileInputs.cache
+/Users/theavillanueva/Desktop/C#/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp3.1/SimpleMethod.dll
+/Users/theavillanueva/Desktop/C#/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp3.1/SimpleMethod.pdb
+/Users/theavillanueva/Desktop/C#/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp3.1/SimpleMethod.genruntimeconfig.cache
